@@ -1,1 +1,3 @@
-Funds = 10000
+gm_freespace=40000
+gm_genesis=12000
+gm_flatgrass=15000
