@@ -1,3 +1,4 @@
 gm_freespace=3500
 gm_genesis=22500
 gm_flatgrass=1000
+rp_nycity=13000
